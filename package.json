@@ -1,15 +1,15 @@
 {
-  "name": "autoline",
+  "name": "auto-responses-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot is an automatic response system that supports that you choose whether it is a reply or a message in the time and supports variables and is easy to control, delete, display and everything",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "shuruhatik",
+  "license": "Boost Software License 1.0",
   "dependencies": {
     "discord.js": "^13.8.0",
     "st.db": "^4.0.7"
